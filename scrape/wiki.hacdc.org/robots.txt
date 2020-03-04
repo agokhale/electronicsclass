@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>HacDC Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Welcome_to_the_HacDC_Wiki","wgTitle":"Welcome to the HacDC Wiki","wgCurRevisionId":18597,"wgRevisionId":18597,"wgArticleId":36,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["HacDC Wiki"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Welcome_to_the_HacDC_Wiki","wgRelevantArticleId":36,"wgRequestId":"Xl07bMLwVmcYN2JVjA9TQgAAAAc","wgCSPNonce":!1,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgIsMainPage":!0};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="HacDC Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.hacdc.org/api.php?action=rsd"/>
+<link rel="license" href="https://www.gnu.org/copyleft/fdl.html"/>
+<link rel="alternate" type="application/atom+xml" title="HacDC Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Welcome_to_the_HacDC_Wiki rootpage-Welcome_to_the_HacDC_Wiki skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Welcome to the HacDC Wiki</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From HacDC Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<div style="float: right; margin-left: 10px;"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Resources.2FFacilites"><span class="tocnumber">1</span> <span class="toctext">Resources/Facilites</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Popular_Links"><span class="tocnumber">2</span> <span class="toctext">Popular Links</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Project_Worklogs"><span class="tocnumber">3</span> <span class="toctext">Project Worklogs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Category:Community"><span class="tocnumber">4</span> <span class="toctext">Category:Community</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Category:Policy"><span class="tocnumber">5</span> <span class="toctext">Category:Policy</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Extra_stuff.2C_buried_by_wiki_cleanup."><span class="tocnumber">6</span> <span class="toctext">Extra stuff, buried by wiki cleanup.</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Cool_Stuff_Going_On_Right_Now.21"><span class="tocnumber">7</span> <span class="toctext">Cool Stuff Going On Right Now!</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Events"><span class="tocnumber">8</span> <span class="toctext">Events</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Past_Cool_Stuff_That_Will_Happen_Again"><span class="tocnumber">9</span> <span class="toctext">Past Cool Stuff That Will Happen Again</span></a></li>
+</ul>
+</div>
+</div>
+<p><span style="font-size:large; line-height:1.5em; color:#222">Welcome to HacDC. We are a hacker space located in Washington, DC. HacDC members improve the world by creatively rethinking technology. We break, build, and occasionally abuse technology in the pursuit of greater knowledge about how it works and repurposing it to build new things. Our shop is located in the <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Columbia_Heights%2C_Washington%2C_D.C.">Columbia Heights</a> neighborhood of the District of Columbia.</span>
+</p><p>
+If you're new here, you should start by looking at our public web site at <a rel="nofollow" class="external text" href="http://www.hacdc.org/">hacdc.org</a>. Our Wiki is mostly for internal organization, but you're welcome to look through to get a sense of what we work on (and consider joining yourself!).  We invite you to subscribe to our <a rel="nofollow" class="external text" href="https://groups.google.com/a/hacdc.org/group/Blabber/topics">Blabber</a> public discussion mailing list.</p><hr />
+<div style="float:left; width:48%;">
+<h3><span id="Resources/Facilites"></span><span class="mw-headline" id="Resources.2FFacilites"><a href="/index.php?title=Category:In_the_Space" title="Category:In the Space"> Resources/Facilites</a></span></h3>
+<p><strong>&lt; All our neat tools/toys/supplies, layout of the space, etc. &gt;
+</strong></p><strong>
+</strong><ul><strong></strong><li><strong><a href="/index.php?title=3D_Printing" class="mw-redirect" title="3D Printing">3D Printing</a> - Rostock, Monoprice, and Lulzbot Mini (flexible filament) are up and running</strong></li>
+<li><b>Cambridge Stereoscan 200 Scanning Electron Microscope</b> We're restoring an electron microscope. <a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/index.php/Category:Stereoscan">[1]</a></li>
+<li><a href="/index.php?title=Category:Space_Configuration" class="mw-redirect" title="Category:Space Configuration"> Configuration</a></li>
+<li><a href="/index.php?title=Category:Event_Planning" title="Category:Event Planning"> Event Planning</a></li>
+<li><a href="/index.php?title=Category:Classes" title="Category:Classes"> Classes</a></li>
+<li><a href="/index.php?title=Wishlist" title="Wishlist">Wishlist</a></li>
+<li><a href="/index.php?title=Category:What_I_Stole" class="mw-redirect" title="Category:What I Stole"> What I Stole</a></li>
+<li><a href="/index.php?title=Inventory" title="Inventory"> Inventory</a></li>
+<li><a href="/index.php?title=Procurement" title="Procurement"> Procurement</a></li>
+<li><a href="/index.php?title=Suppliers" title="Suppliers"> Suppliers</a></li>
+<li><a href="/index.php?title=Whiteboard" title="Whiteboard"> Whiteboard</a></li></ul>
+<h3><span class="mw-headline" id="Popular_Links">Popular Links</span></h3>
+<p><strong> &lt; Themes and threads that span across the other categories in the Wiki.  This is also where we keep things that don't easily fit in other categories &gt;</strong>
+</p>
+<ul><li><b><a href="/index.php?title=Outline" title="Outline">Outline</a></b></li>
+<li><b><a href="/index.php?title=Spaceblimp" class="mw-redirect" title="Spaceblimp">Spaceblimp</a></b></li>
+<li><a href="/index.php?title=Batch_III" title="Batch III">Batch_III</a> Outgoing items</li>
+<li><a href="/index.php?title=Proposed_Standing_Rules" title="Proposed Standing Rules">Proposed Standing Rules</a></li>
+<li><a href="/index.php?title=GettingHere" title="GettingHere">GettingHere</a></li>
+<li><a href="/index.php?title=Category:Meeting_Minutes" title="Category:Meeting Minutes"> Meeting Minutes and Agendas</a> (next: <i><b><a href="/index.php?title=Regular_Member_Meeting_2015_11_10" title="Regular Member Meeting 2015 11 10">Regular_Member_Meeting_2015_11_10</a></b></i>)</li>
+<li><a href="/index.php?title=Category:Classes" title="Category:Classes"> Classes</a></li>
+<li><a href="/index.php?title=Category:Hacker_Travel" title="Category:Hacker Travel"> Hacker Travel</a></li>
+<li><a href="/index.php?title=Cheap_Chinese_Laser" title="Cheap Chinese Laser">Cheap Chinese Laser</a></li></ul>
+<h3><span class="mw-headline" id="Project_Worklogs"><a href="/index.php?title=Category:Projects" title="Category:Projects"> Project Worklogs</a></span></h3>
+<p><strong> &lt; Where our projects collaborate and document their research and progress.  &gt;</strong>
+</p>
+<ul><li><a href="/index.php?title=Category:Project_Awesome" title="Category:Project Awesome"> Project Awesome Projects</a></li>
+<li><a href="/index.php?title=Category:Ongoing_Projects" title="Category:Ongoing Projects"> Ongoing Projects</a></li>
+<li><a href="/index.php?title=Category:Previous_Projects" title="Category:Previous Projects"> Previous Projects</a></li>
+<li><a href="/index.php?title=Category:Proposed_Projects" title="Category:Proposed Projects"> Proposed Projects</a></li></ul>
+<h3><span class="mw-headline" id="Category:Community"><a href="/index.php?title=Category:Community" title="Category:Community">Category:Community</a></span></h3>
+<p><strong> &lt; Pages on people in our community &gt;</strong>
+</p>
+<ul><li><a href="/index.php?title=Category:Members" title="Category:Members"> Member User Pages</a></li>
+<li><a href="/index.php?title=Category:Friends" title="Category:Friends"> Friends of HacDC</a></li>
+<li><a href="/index.php?title=Heroes" title="Heroes"> Heroes and people who inspire us</a></li></ul>
+<h3><span class="mw-headline" id="Category:Policy"><a href="/index.php?title=Category:Policy" title="Category:Policy">Category:Policy</a></span></h3>
+<p><strong> &lt; Our Policy Manual is divided into the following subcategories &gt;</strong>
+</p>
+<ul><li><a href="/index.php?title=Articles_of_Incorporation" title="Articles of Incorporation">Articles of Incorporation</a></li>
+<li><a href="/index.php?title=Bylaws" title="Bylaws">Bylaws</a></li>
+<li><a href="/index.php?title=MIBS_Simplified_Rules_of_Coordinated_Consensus_through_Chaos" title="MIBS Simplified Rules of Coordinated Consensus through Chaos"> Meeting Rules</a></li>
+<li><a href="/index.php?title=Privacy_Policy" title="Privacy Policy"> Privacy Policy</a></li>
+<li><a href="/index.php?title=Resource_Use_Policy" title="Resource Use Policy"> Resource Use Policy</a></li>
+<li><a href="/index.php?title=Resource_Disposal" title="Resource Disposal"> Resource Disposal Policy</a></li>
+<li><a href="/index.php?title=Category:Communications_Policy" class="mw-redirect" title="Category:Communications Policy"> Communications Policy</a></li>
+<li><a href="/index.php?title=Licensing_Policy" title="Licensing Policy"> Licensing Policy</a></li></ul>
+<h3><span id="Extra_stuff,_buried_by_wiki_cleanup."></span><span class="mw-headline" id="Extra_stuff.2C_buried_by_wiki_cleanup.">Extra stuff, buried by wiki cleanup.</span></h3>
+<p><a href="/index.php?title=Category:Obsolete" title="Category:Obsolete">Category:Obsolete</a>
+</p>
+</div>
+<div style="float:right; width:48%;"> 
+<h3><span id="Cool_Stuff_Going_On_Right_Now!"></span><span class="mw-headline" id="Cool_Stuff_Going_On_Right_Now.21">Cool Stuff Going On Right Now!</span></h3>
+<p><strong>&lt; Workshops, Projects, Brainstorming Sessions &gt;</strong>
+</p>
+<ul><li><a href="/index.php?title=Microcontroller_Mondays" title="Microcontroller Mondays">Microcontroller Mondays</a></li>
+<li><a href="/index.php?title=Amateur_radio" class="mw-redirect" title="Amateur radio">Amateur radio</a>  <b>Ham Radio</b> -- make stuff, get your license, QSO, test, tinker, learn,...</li>
+<li><a href="/index.php?title=3D_Thursdays&amp;action=edit&amp;redlink=1" class="new" title="3D Thursdays (page does not exist)">3D Thursdays</a> -- 3-D printing enthusiasts are on hand and we have many working and workable printers of various types ...usually from 6:00pm on.)</li></ul>
+<h3><span class="mw-headline" id="Events">Events</span></h3>
+<p><strong> &lt; Join our <a rel="nofollow" class="external text" href="http://www.meetup.com/hac-dc/#calendar">HacDC Meetup Group</a> to stay on top of all our events &gt; </strong>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="2">Start Time
+</th>
+<th colspan="2">End Time
+</th>
+<th>Event 
+</th></tr>
+<tr>
+<td>2020-03-02
+</td>
+<td>19:00
+</td>
+<td>2020-03-02
+</td>
+<td>21:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/nmbkqqybcfbdb/">Microcontroller Monday</a>
+</td></tr>
+<tr>
+<td>2020-03-05
+</td>
+<td>18:00
+</td>
+<td>2020-03-05
+</td>
+<td>20:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/cdbkqqybcfbhb/">3D Thursdays &amp; Open House</a>
+</td></tr>
+<tr>
+<td>2020-03-09
+</td>
+<td>19:00
+</td>
+<td>2020-03-09
+</td>
+<td>21:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/nmbkqqybcfbmb/">Microcontroller Monday</a>
+</td></tr>
+<tr>
+<td>2020-03-10
+</td>
+<td>19:30
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/kjdxglybcfbnb/">Monthly Members Meeting</a>
+</td></tr>
+<tr>
+<td><del style="color:#7f0000;">2020-03-11</del>
+</td>
+<td><del style="color:#7f0000;">19:00</del>
+</td>
+<td><del style="color:#7f0000;">2020-03-11</del>
+</td>
+<td><del style="color:#7f0000;">20:30</del>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/wxfclrybcfbpb/"><del style="color:#7f0000;">Amateur Radio</del></a>
+</td></tr>
+<tr>
+<td>2020-03-12
+</td>
+<td>18:00
+</td>
+<td>2020-03-12
+</td>
+<td>20:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/cdbkqqybcfbqb/">3D Thursdays &amp; Open House</a>
+</td></tr>
+<tr>
+<td>2020-03-16
+</td>
+<td>19:00
+</td>
+<td>2020-03-16
+</td>
+<td>21:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/nmbkqqybcfbvb/">Microcontroller Monday</a>
+</td></tr>
+<tr>
+<td>2020-03-19
+</td>
+<td>18:00
+</td>
+<td>2020-03-19
+</td>
+<td>20:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/cdbkqqybcfbzb/">3D Thursdays &amp; Open House</a>
+</td></tr>
+<tr>
+<td>2020-03-23
+</td>
+<td>19:00
+</td>
+<td>2020-03-23
+</td>
+<td>21:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/nmbkqqybcfbfc/">Microcontroller Monday</a>
+</td></tr>
+<tr>
+<td>2020-03-26
+</td>
+<td>18:00
+</td>
+<td>2020-03-26
+</td>
+<td>20:00
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.meetup.com/hac-dc/events/cdbkqqybcfbjc/">3D Thursdays &amp; Open House</a>
+</td></tr></tbody></table>
+<p><span style="display:inline-block; padding:0 0 0 15em;"><span style="text-decoration:underline;"><em>(Events list last updated: <strong>2020-03-02 03:00</strong>)</em></span></span>
+</p>
+<h3><span class="mw-headline" id="Past_Cool_Stuff_That_Will_Happen_Again">Past Cool Stuff That Will Happen Again</span></h3>
+<p><strong>&lt; Ask us about any project you'd like to resurrect &gt;</strong>
+</p>
+<ul><li><a href="/index.php?title=LightningTalks" title="LightningTalks">LightningTalks</a></li>
+<li><a href="/index.php?title=HacDC_Summer_School&amp;action=edit&amp;redlink=1" class="new" title="HacDC Summer School (page does not exist)">HacDC Summer School</a> This aspires to be a yearly beginner-level workshop series giving attendees an introduction to physical computing. Topics for 2013 included integrated circuits kit-soldering, Arduino programming, and working with Processing.org <a rel="nofollow" class="external text" href="http://www.meetup.com/hac-dc/events/121563632/">(full description)</a>. A more integrated curriculum is being planned to roll-in Intro to Electronics, <a href="/index.php?title=Intro_to_Programming" title="Intro to Programming">Intro to Programming</a>,  <a href="/index.php?title=AVR_Microcontroller_Class_2011" title="AVR Microcontroller Class 2011"> AVR programming</a>, IoT workshops, and more...</li>
+<li><a href="/index.php?title=Schemers" title="Schemers">"Schemers" a Biweekly SICP study group</a> meeting on <a rel="nofollow" class="external text" href="http://www.meetup.com/hac-dc/events/64832532/">alternate Tuesdays</a></li>
+<li><a href="/index.php?title=TECS" title="TECS"> The Elements of Computing Systems: Building a Modern Computer from First Principles</a></li>
+<li><a href="/index.php?title=IntrotoVisualsforProgrammers" class="mw-redirect" title="IntrotoVisualsforProgrammers"> Intro to Visuals for Programmers</a></li>
+<li><a href="/index.php?title=Electron_Tube_Class" title="Electron Tube Class">Electron Tube Class</a></li>
+<li>Max/MSP Workshop</li>
+<li><a href="/index.php?title=Quantified_Self" class="mw-redirect" title="Quantified Self">Quantified Self</a></li>
+<li><a href="/index.php?title=Intro_to_Programming" title="Intro to Programming">Intro to Programming</a></li>
+<li><a href="/index.php?title=AVR_Microcontroller_Class_2011" title="AVR Microcontroller Class 2011">AVR Microcontroller Class 2011</a></li>
+<li><a href="/index.php?title=Great_Global_Hackerspace_Challenge" title="Great Global Hackerspace Challenge">Great Global Hackerspace Challenge</a></li>
+<li><a href="/index.php?title=Linux_Class" title="Linux Class">Linux Class</a></li>
+<li><a href="/index.php?title=Bike_Maintenance_Class" title="Bike Maintenance Class">Bike Maintenance Class</a></li>
+<li><a href="/index.php?title=HacDC_Spaceblimp_5" title="HacDC Spaceblimp 5">HacDC Spaceblimp 5</a></li>
+<li><a href="/index.php?title=Robotics_Class_2011" title="Robotics Class 2011">Robotics Class 2011</a></li></ul>
+</div>
+<!-- 
+NewPP limit report
+Cached time: 20200302080034
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.082 seconds
+Real time usage: 0.107 seconds
+Preprocessor visited node count: 116/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 1821/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   19.800      1 Template:TOCright
+100.00%   19.800      1 -total
+-->
+
+<!-- Saved in parser cache with key hacdc_wiki:pcache:idhash:36-0!canonical and timestamp 20200302080034 and revision id 18597
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://wiki.hacdc.org/index.php?title=Welcome_to_the_HacDC_Wiki&amp;oldid=18597">https://wiki.hacdc.org/index.php?title=Welcome_to_the_HacDC_Wiki&amp;oldid=18597</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php?title=Category:HacDC_Wiki" title="Category:HacDC Wiki">HacDC Wiki</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Welcome+to+the+HacDC+Wiki" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/index.php?title=Welcome_to_the_HacDC_Wiki" title="View the content page [c]" accesskey="c">Main page</a></span></li><li id="ca-talk"><span><a href="/index.php?title=Talk:Welcome_to_the_HacDC_Wiki" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/index.php?title=Welcome_to_the_HacDC_Wiki">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/index.php?title=Welcome_to_the_HacDC_Wiki&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=Welcome_to_the_HacDC_Wiki&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search HacDC Wiki" title="Search HacDC Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/index.php?title=Welcome_to_the_HacDC_Wiki" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-Navigation" aria-labelledby="p-Navigation-label">
+			<h3 id="p-Navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Welcome.21"><a href="/index.php?title=Welcome_to_the_HacDC_Wiki">Welcome!</a></li><li id="n-recentchanges"><a href="/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/index.php?title=Special:WhatLinksHere/Welcome_to_the_HacDC_Wiki" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/index.php?title=Special:RecentChangesLinked/Welcome_to_the_HacDC_Wiki" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=Welcome_to_the_HacDC_Wiki&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Welcome_to_the_HacDC_Wiki&amp;oldid=18597" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Welcome_to_the_HacDC_Wiki&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 March 2019, at 12:22.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.3 or later</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/index.php?title=HacDC_Wiki:Privacy_policy" class="mw-redirect" title="HacDC Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/index.php?title=HacDC_Wiki:About" title="HacDC Wiki:About">About HacDC Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/index.php?title=HacDC_Wiki:General_disclaimer" class="mw-redirect" title="HacDC Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://www.gnu.org/copyleft/fdl.html"><img src="/resources/assets/licenses/gnu-fdl.png" alt="GNU Free Documentation License 1.3 or later" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.082","walltime":"0.107","ppvisitednodes":{"value":116,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":1821,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   19.800      1 Template:TOCright","100.00%   19.800      1 -total"]},"cachereport":{"timestamp":"20200302080034","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":227});});</script>
+</body>
+</html>

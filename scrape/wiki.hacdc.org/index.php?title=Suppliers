@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Suppliers - HacDC Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Suppliers","wgTitle":"Suppliers","wgCurRevisionId":18749,"wgRevisionId":18749,"wgArticleId":360,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Useful Info"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Suppliers","wgRelevantArticleId":360,"wgRequestId":"Xl07icCaH4LOfRphaNUfsQAAAAA","wgCSPNonce":!1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="HacDC Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.hacdc.org/api.php?action=rsd"/>
+<link rel="license" href="https://www.gnu.org/copyleft/fdl.html"/>
+<link rel="alternate" type="application/atom+xml" title="HacDC Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Suppliers rootpage-Suppliers skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Suppliers</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From HacDC Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose_of_this_page"><span class="tocnumber">1</span> <span class="toctext">Purpose of this page</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Electronics.2C_Robotics.2C_CNC..."><span class="tocnumber">3</span> <span class="toctext">Electronics, Robotics, CNC...</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Local_Distributors"><span class="tocnumber">3.1</span> <span class="toctext">Local Distributors</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Large_Suppliers"><span class="tocnumber">3.2</span> <span class="toctext">Large Suppliers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#LEDs.2C_Lighting"><span class="tocnumber">3.3</span> <span class="toctext">LEDs, Lighting</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Batteries"><span class="tocnumber">3.4</span> <span class="toctext">Batteries</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Surplus"><span class="tocnumber">3.5</span> <span class="toctext">Surplus</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Microcontroller.2C_development_boards.2C_modules"><span class="tocnumber">3.6</span> <span class="toctext">Microcontroller, development boards, modules</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Hobby_CNC"><span class="tocnumber">3.7</span> <span class="toctext">Hobby CNC</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Audio-Video"><span class="tocnumber">3.8</span> <span class="toctext">Audio-Video</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Networking"><span class="tocnumber">3.9</span> <span class="toctext">Networking</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Automobile_Electronics_-_rugged.2C_DC_powered_.26_small_format_PCs_and_parts"><span class="tocnumber">3.10</span> <span class="toctext">Automobile Electronics - rugged, DC powered &amp; small format PCs and parts</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Etc."><span class="tocnumber">3.11</span> <span class="toctext">Etc.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#G33k_Out_Shop_Sites"><span class="tocnumber">4</span> <span class="toctext">G33k Out Shop Sites</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Optics"><span class="tocnumber">5</span> <span class="toctext">Optics</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Mechanical_Parts_.26_Fabrication"><span class="tocnumber">6</span> <span class="toctext">Mechanical Parts &amp; Fabrication</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Parts_.26_Materials"><span class="tocnumber">6.1</span> <span class="toctext">Parts &amp; Materials</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Fasteners"><span class="tocnumber">6.2</span> <span class="toctext">Fasteners</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Machine_Tools_Sales"><span class="tocnumber">6.3</span> <span class="toctext">Machine Tools Sales</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Services"><span class="tocnumber">6.4</span> <span class="toctext">Services</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Plastics"><span class="tocnumber">7</span> <span class="toctext">Plastics</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Metals"><span class="tocnumber">8</span> <span class="toctext">Metals</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Wood"><span class="tocnumber">9</span> <span class="toctext">Wood</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Plywood_and_Sheet_Goods"><span class="tocnumber">9.1</span> <span class="toctext">Plywood and Sheet Goods</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Exotic_Lumber"><span class="tocnumber">9.2</span> <span class="toctext">Exotic Lumber</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Construction_Lumber"><span class="tocnumber">9.3</span> <span class="toctext">Construction Lumber</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Woodworking_Tools_and_Supplies"><span class="tocnumber">9.4</span> <span class="toctext">Woodworking Tools and Supplies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Printed_Circuit_Boards.3B_Fab.2C_Supplies.2C_Assembly"><span class="tocnumber">10</span> <span class="toctext">Printed Circuit Boards; Fab, Supplies, Assembly</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Other"><span class="tocnumber">11</span> <span class="toctext">Other</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Purpose_of_this_page">Purpose of this page</span></h2>
+<p>List of suppliers for various materials and items and user reviews.
+</p><p>Please add new suppliers and user comment lines (with attribution / date)
+Suppliers can be rated by in the user comment lines. 
+Convention is [1] = worst, [5] = best
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p><a rel="nofollow" class="external text" href="http://wiki.pumpingstationone.org/index.php/Sources">Pumping Station: One's Sources page</a>
+</p>
+<h2><span id="Electronics,_Robotics,_CNC..."></span><span class="mw-headline" id="Electronics.2C_Robotics.2C_CNC...">Electronics, Robotics, CNC...</span></h2>
+<h3><span class="mw-headline" id="Local_Distributors">Local Distributors</span></h3>
+<p>(See <b>LOCAL</b> tag for other local businesses in subsequent sections)
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.radioshack.com/">Radio Shack, 872 Muddy Branch RD Gaithersburg, MD 2087</a>
+<ul><li>One of the few RadioShacks selling more than phones. Decent, well sorted inventory of copper clad boards (for etching/milling), resistors, capacitors, transistors, and even a few simple ICs (TL082, 555).</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.arcade-electronics.com/">Arcade Electronics</a> <b>LOCAL DISTRIBUTOR</b>
+<ul><li>[3] Local full-line distributor. Prices vary, but good experiences with them (alden w/hat tip to Mark Fearer - 10/16/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.markelectronics.com/">Mark Electronics Supply</a> <b>LOCAL DISTRiBUTOR / BELTSVILLE MD</b>
+<ul><li>Local full-line distributor (Martin via alden 10/16/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.baynesvilleelectronics.com/">Baynesville Electronics</a> <b>LOCAL</b>
+<ul><li>"My favorite in MD" (Q via martin 3/11/10) [Must be good if you still like it after the really annoying Flash intro! - alden]</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.microcenter.com/">Microcenter</a>
+<ul><li>Well stocked computer store. Will match newegg prices (and a few others).</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.tcponline.com/">The Computer Place</a> <b>LOCAL</b>
+<ul><li>[5] Clone boutique on steroids. Good prices and wide selection of PC components.  Wall of cables. Gaithersburg, MD and Fairfax, VA (martin 12/31/09)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Large_Suppliers">Large Suppliers</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.waytekwire.com">Waytek</a>
+<ul><li>Waytek has been supplying high quality electrical wiring supplies since the 1970s.</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mouser.com">Mouser Electronics</a>
+<ul><li>[4] Very complete line of electronics parts. Good searchability, fast service, decent prices on parts. Tools and some other items are expensive (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.digikey.com">DigiKey</a>
+<ul><li>[3] Very complete line of electronics parts. I find it harder to navigate than Mouser, and more expensive. I generally don't use them unless I can't find something elsewhere (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://avnetexpress.avnet.com">Avnet Electronics</a>
+<ul><li>[4] US electronics parts distributor, like Mouser or DigiKey.  Good searchability.  Avnet Inc. also offers consulting, design, and FAE services (will 10/02/09).</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.onlinecomponents.com">Online Components</a>
+<ul><li>[3] Authorized online electronic components distributor.</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://parts.arrow.com">Arrow Electronics</a>
+<ul><li>[4] US electronics parts distributor, like Avnet (alex 08/30/13).</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://www.eaton.com/elx">Eaton Electronics</a>
+<ul><li>[4] Eaton offers a broad range of electronics components that include power magnetics, circuit protection, supercapacitor and terminal block products. These products serve customers in computing, consumer, energy, industrial, medical and transportation markets..</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.jameco.com/">Jameco</a>
+<ul><li>[3] Well known supplier - reasonably complete line (not as complete as Mouser, Digi-key, Avnet), some prices are very good. (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.rohm.com">ROHM</a>
+<ul><li>[4] Designs and manufactures integrated circuits (ICs), semiconductors, and other electronic components).</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.alliedelec.com/">Allied Electronics</a>
+<ul><li>Full line distributor (from Jerami Rinaldi's post 3/11/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.newark.com/">Newark Electronics, aka. Element 14</a>
+<ul><li>Full line distributor (Philip Stewart via Alden 2/28/12)</li>
+<li>Also supplies screws, 3D printer filament, Raspberry Pi's. Also does PCB fab and assembly at competitive rates. Good choice for projects including a mix of electrical and non-electrical components. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 20:03, 17 September 2015 (PDT)</li></ul></li></ul>
+<h3><span id="LEDs,_Lighting"></span><span class="mw-headline" id="LEDs.2C_Lighting">LEDs, Lighting</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://ledz.com/">Hebei (China)</a> LEDs only
+<ul><li>[5] Best prices on LEDs I've found - but does have a $199 minimum (see Buy LEDs Online for smaller orders). Ship fast. Worked through a problem with them and they handled me fairly. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.buy-leds-online.com/Products.html">Buy LEDs Online</a> LEDs only
+<ul><li>[4] US distributor for Hebei. Same stuff. Prices are more expensive but no minimum. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bulbman.com/">Bulb Man</a>
+<ul><li>Large variety of mostly conventional light bulbs (martin 2/26/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.1000bulbs.com/">1000 Bulbs.com</a>
+<ul><li>[5] Good variety of CFLs and other household and commercial lamps. Used them for years with good results (alden 3/12/10)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Batteries">Batteries</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.batteriesplus.com/">Batteries Plus</a> <b>LOCAL</b>
+<ul><li>[3] Surprisingly large selection for a retail shop Rockville &amp; Columbia MD, Alexandria, Fairfax &amp; Woodbridge VA (martin 3/11/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.batteryjunction.com/">Battery Junction</a>
+<ul><li>[4] Hard to find batteries, including Lithium Thionyl Chloride 3.6v batteries (alden 10/06/09)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Surplus">Surplus</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mpja.com/">MPJA - Marlin P Jones Associates</a> Surplus
+<ul><li>[5] Great surplus. Nice printed catalog, Some specials are really good deals. (alden 10/03/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.elexp.com/">Electronix Express (a division of RSR Electronics)</a> Surplus
+<ul><li>[3] Better selection than some other surplus catalog, prices vary. Good selection and prices on breadboards (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.goldmine-elec.com/">Electronics Goldmine</a>
+<ul><li>Discounts on SMT components, and often has cool weird stuff like IC masks and wafers. Special robot section. (dan 05/03/09 via gareth's article via alden)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.allelectronics.com/">All Electronics</a> Surplus
+<ul><li>[4] Nice bargain bin to hunt around in. Not very complete line of parts, but some very good buys. (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.surpluscomputers.com/">Surplus Computers.com</a>
+<ul><li>Lots of interesting items - thanks to Dan Barlow for the pointer! (alden 11/20/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.alltronics.com/">Alltronics</a>
+<ul><li>Nice broad selection of surplus stepper motors, other CNC and robotics parts, and electronics (alden 01/20/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.halted.com/">Halted Electronic Supply</a>
+<ul><li>Bay area surplus (from Mark Adams via Alden 02/28/12)</li></ul></li></ul>
+<h3><span id="Microcontroller,_development_boards,_modules"></span><span class="mw-headline" id="Microcontroller.2C_development_boards.2C_modules">Microcontroller, development boards, modules</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.moderndevice.com/">Modern Device</a>
+<ul><li>These guys have pretty good arduino clones, the Bare-Bones-Board and the Really-Bare-Bones-Board, kits from about $10.  Fast &amp; cheap shipping, good customer service.  (jackson 10/02/09 -- did a bulk order from them.)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.semiconductorstore.com/">Semiconductor Store</a>
+<ul><li>Esoteric electronics, like Nordic ANT radios, some robotics parts. Some parts can have high minimums (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://adafruit.com/">Adafruit Industries</a>
+<ul><li>Lots of Arduino, microcontroller, electronics and robotics parts (Philip Stewart via Alden 2/28/12)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sparkfun.com/">Sparkfun</a>
+<ul><li>Assortment of electronics, assemblies, mechanical components for robotics, motion control and other applications (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.digilentinc.com/">Digilent</a>
+<ul><li>[5] Xilinx FPGA and Atmel/Microchip microcontroller development boards and accessories.  Makers of the fine boards used in our FPGA class. (martin 12/31/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://stores.ebay.com/MDflystore">MDflystore</a>
+<ul><li>eBay seller with good prices for development boards, prototyping gear, SMT, etc. (alden from blabber post by AndrewQ 1/27/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ucpros.com/">Microcontroller Pros Corporation</a>
+<ul><li>Wide variety of microcontroller development tools (martin 1/30/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://robokitsworld.com/">Robo Kits World (India)</a>
+<ul><li>[5] Unbelievably low prices on 0.100" single inline headers - like $0.13 each for 40 pins in 100's. See Components / Headers. I have order history with them (alden 3/12/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.phidgets.com/">Phidgets</a>
+<ul><li>Some really cool USB control and sensing components (alden 9/11/11 (safety third))</li></ul></li></ul>
+<h3><span class="mw-headline" id="Hobby_CNC">Hobby CNC</span></h3>
+<p>(see also Machine Tools Sales section)
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.pololu.com/">Polulu</a>
+<ul><li>Assortment of electronics, assemblies, mechanical components for robotics, motion control and other applications (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hobbycnc.com/">Hobby CNC</a>
+<ul><li>David Powell from Harford Hackerspace is trying to kick-ass on Riley's CNC with stepper motors from this site. Beware (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://sdp-si.com/eStore/">Stock Drive Parts</a>
+<ul><li>Nice pulleys, belts, and other robot and machine parts (alden 9/11/11 (safety third))</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.robotshop.com/">Robot Shop</a>
+<ul><li>Excellent supply of various robotics components, especially wide selection of motors. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 19:37, 15 August 2015 (PDT)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Audio-Video">Audio-Video</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.monoprice.com/">Monoprice</a>
+<ul><li>[5] Wide variety of audio/visual/networking cables and accessories - low prices (martin 1/7/10)</li>
+<li>also USB. Really cheap, with cheap shipping too (--<a href="/index.php?title=User:NikolasCo" title="User:NikolasCo">NikolasCo</a> 15:51, 23 April 2010 (UTC))</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ramelectronics.net/">RAM Electronics</a></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.projectorcentral.com/">Projector Central</a></li></ul>
+<h3><span class="mw-headline" id="Networking">Networking</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bestlinknetware.com/">Bestlinknetware</a>
+<ul><li>[4] Networking supplies</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cnaweb.com/">Computer Network Associates</a>
+<ul><li>[4] Good prices on USB cables (and they have short ones), other networks, cables and HW. (alden 4/5/10)</li></ul></li></ul>
+<h3><span id="Automobile_Electronics_-_rugged,_DC_powered_&amp;_small_format_PCs_and_parts"></span><span class="mw-headline" id="Automobile_Electronics_-_rugged.2C_DC_powered_.26_small_format_PCs_and_parts">Automobile Electronics - rugged, DC powered &amp; small format PCs and parts</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.short-circuit.com/">Short Circuit</a></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://mp3car.com/">MP3 Cars</a></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mini-itx.com/">Mini-ITX</a></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.webpg.net/">OBD Diagnostics</a>
+<ul><li>Low cost USB OBD reader (martin 2/26/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.carplugs.com/">Carplugs</a>
+<ul><li>OBD-II connectors (martin 2/26/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://opengauge.org/mpguino/">MPGino</a>
+<ul><li>Mileage computer - open source plans/kit for fuel injected Pre OBD-II cars (martin 2/26/10)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Etc.">Etc.</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.circuitspecialists.com/">Circuit Specialists</a>
+<ul><li>Lots of good stuff for making PCBs, motion control, and other related stuff (alden 10/06/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.marvac.com/">Marvac Electronics</a>
+<ul><li>Good source for pre-cut wire wrap wire (alden 10/06/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://lessemf.com/">Less EMF</a>
+<ul><li>[?] EMF control, conductive materials</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ohararp.com/Stencils.html/">Laser cut kapton stencils</a>
+<ul><li>I haven't used this service myself but people I know have and like them (alden 11/10/24)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://www.peigenesis.com/">PEI Genesis</a>
+<ul><li>Custom connector &amp; cable solutions for harsh environments.</li></ul></li></ul>
+<h2><span class="mw-headline" id="G33k_Out_Shop_Sites">G33k Out Shop Sites</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.thinkgeek.com/">Think Geek</a>
+<ul><li>Name says it all - weird and wonderful stuff of every variety! (martin 12/31/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.dealextreme.com/">DealExtreme</a>
+<ul><li>Incredibly random selection of electronics and other stuff. The Cubic Configurable Storage Toolboxes (sku 4580) are great for holding surface mount parts (alden 10/06/09)</li>
+<li>From Fredrik Nyman: Bottom line: check your order status. (Back ordered items can delay your order if you don't check on it)</li>
+<li>Amazingly low prices on solder paste in 50g tubs - like ~$3.00. Be sure you are getting solder PASTE and not flux. (alden 3/12/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sciplus.com/">American Science and Surplus</a>
+<ul><li>Random assortment of useful and amusing items (alden 12/08/09 - thx Tim Farnam)</li>
+<li>Of special note for lathe people: decent quality digital calipers for $20 (tom 10/07/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.woot.com/">Woot.com</a>
+<ul><li>What can you say about Woot? (alden 12/08/09 - thx Daniel Ternes)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sci-supply.com/">Sci-supply</a>
+<ul><li>Accoutrement for the mad scientist (martin 12/29/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.momastore.org/">Museum of Modern Art Store</a>
+<ul><li>Amazing designs and fun toys (martin 1/21/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mcphee.com/shop/">Archie McPhee</a>
+<ul><li>Lowbrow, hilarious junk. Check out the cocktail napkin notebook. (martin 1/21/10)</li></ul></li></ul>
+<h2><span class="mw-headline" id="Optics">Optics</span></h2>
+<ul><li><a rel="nofollow" class="external autonumber" href="http://www.anchoroptics.com/pages/category/Experimental%20Grade%20Optics.cfm">[1]</a>
+<ul><li>Reported as cheap 'bargin bin'. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 07:12, 21 July 2014 (PDT)</li></ul></li></ul>
+<h2><span id="Mechanical_Parts_&amp;_Fabrication"></span><span class="mw-headline" id="Mechanical_Parts_.26_Fabrication">Mechanical Parts &amp; Fabrication</span></h2>
+<h3><span id="Parts_&amp;_Materials"></span><span class="mw-headline" id="Parts_.26_Materials">Parts &amp; Materials</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mcmaster.com/">McMaster-Carr</a>
+<ul><li>Very complete line of mechanical parts. Good service. Pricing can often be beat if you hunt around. (alden 10/4/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://mdmetric.com/">Maryland Metric</a> <b>LOCAL / BALTIMORE</b>
+<ul><li>Huge selection of metric parts (alden 3/12/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.smallparts.com/">Small Parts</a>
+<ul><li>[4] Wild selection of esoteric parts. Stockouts common, but otherwise good services (alden 10/04/09]</li></ul></li></ul>
+<h3><span class="mw-headline" id="Fasteners">Fasteners</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.boltdepot.com/">Bolt Depot</a>
+<ul><li>[4] Bolts. Nuts, too. (alden 10/06/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mcfeelys.com/">McFeeleys</a>
+<ul><li>More wood screws and fasteners than you knew existed. Should be called Screw Depot but that would attract the wrong clientèle (martin 12/21/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.fastenal.com/">Fastenal</a>
+<ul><li>[?] Large selection of fasneners  (martin 2/26/10)</li>
+<li>Sterling VA manager, J. T. Bailey, may be able to has offered to consider discounts, pre-purchase/outside-drop service, inter-store ordering, and seems to be interested in accommodating demand for specific parts as needed. Quite helpful. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 15:02, 10 September 2015 (PDT)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.nutty.com/">The Nutty Company</a>
+<ul><li>[?] Yet more fasteners (martin 4/10/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hookandloop.com/">HookandLoop.com</a>
+<ul><li>[?] Has conductive hook &amp; loop tape  (martin 4/10/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mrmetric.com/">Mr. Metric</a>
+<ul><li>[?]  Metric bolts and machine screws with $7.50 flatrate shipping and no minimum order (James 4/12/17)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Machine_Tools_Sales">Machine Tools Sales</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://Use-Enco.com">Enco</a>
+<ul><li>[3] Very complete source for machine tooling, can be expensive. Online specials (Hot Deals) can be good deals. Good for end mills and cutting tools. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.harborfreight.com">Harbor Freight</a> <b>LOCAL</b>
+<ul><li>[3] Some things are really cheap. Others are just "cheap". Not good for precision equipment such as lathes, rotary tables, etc. Still useful, however (alden 10/02/09)</li>
+<li>There is a <a rel="nofollow" class="external text" href="http://www.harborfreight.com/cpi/ctaf/retail_stores.taf">retail store</a> in Laurel, MD, Gaithersburg, MD and another in Woodbridge, VA.</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://grizzly.com/">Grizzly Industrial</a>
+<ul><li>[4] Good source for machine tools themselves and some limited parts. See Enco for more complete parts and supplies (alden 10/04/09)</li>
+<li>[4] I really like my 14" Grizzly bandsaw. The PA retail location claims to be the largest tool showroom in the world. (martin 12/21/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cdcotools.com/index.php">CDCO Machinery Corporation</a>
+<ul><li>[4] Nice selection of machining tools and parts, DRO readouts; good prices (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://littlemachineshop.com/">Little Machine Shop</a>
+<ul><li>Well known source for small CNC parts, machinging tools and parts (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.shars.com/">Shars</a>
+<ul><li>[5] Good, cheap CNC and machining parts (alden 11/15/11)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.intellidrives.com/">IntelLiDrives,Inc.</a>
+<ul><li>Supplier of linear actuators, rotary tables and XY systems (greg 9/22/11)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.micromark.com/">Micro-Mark</a>
+<ul><li>Mini tools and model building supplies (martin 2/26/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.skarie.com/">Skarie</a> <b>LOCAL</b>
+<ul><li>[4] Woodworking machinery, power tools &amp; industrial supplies.  Some used equipment sales martin (4/10/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://wihatools.com/pro_Precision.htm/">Wiha Tools</a>
+<ul><li>Precision screwdrivers - (alden 6/14/10 from Paul McCord Dorkbot post)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mcmaster.com/">McMaster-Carr</a>
+<ul><li>If you're already buying material from McMaster, you can cut down on shipping by ordering your tools from here as well.  All pretty good quality, price isn't great but reasonable.  (tom 10/07/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.dumpstercnc.com/">DumpsterCNC - The Anti-Backlash Store</a>
+<ul><li>Lead screws, shaft couplers, and nuts. That's all. Should also be the anti-runout store (alden 11/15/11)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Services">Services</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.3dmetalparts.com/">3DMetalParts</a> <b>LOCAL</b>
+<ul><li>[5] 6,000 sf facility houses a machine shop, an electro-mechanical dept., a fabrication dept., mobile cranes, etc. Consulting and services include: Transportation and installation, CAD modeling and kinematics, Electronic and Mechanical Design, etc. Equipment includes welders, a big lathe and 6-axis robots and a torch to cut parts from metal shapes. (alberto 5/2/12)
+<ul><li>Chas Colburn, 5330 46th Avenue, Hyattsville, MD 20781</li>
+<li>301-221-2184</li></ul></li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.emachineshop.com/">eMachineshop</a>
+<ul><li>[4] Will machine parts from proprietary CAD drawing package. I had a very satisfactory experience with them on a 200-part run. Can be expensive for very short runs (alden 10/03/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.shapeways.com/">Shapeways</a>
+<ul><li>Cool 3d printing service. I have not ordered from them (alden 10/06/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.pro-type.com/">Pro-Type Industries, Inc. </a> <b>LOCAL</b>
+<ul><li>[?] Local machine shop in Sterling VA. Anybody have any experience with them? (alden 10/13/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ponoko.com/">Ponoko</a>
+<ul><li>Laser cutting. Call Riley Porter first! (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.roxchox.com/">Rox Chox and Woodworking</a> <b>LOCAL</b>
+<ul><li>Sign &amp; CNC Router Service (martin 2/26/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.flywheelmachinetools.com/">Fly Wheel Machine Tools</a> <b>LOCAL</b>
+<ul><li>[5] Machine tools, used/refurbished/antique equipment, machine shop services.  Excellent reputation (martin 4/10/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://barrettmachine.com/about-us/">Barrett Machine and Tool</a> <b>LOCAL</b></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://millermachinetool.com/">Miller Machine and Tool</a> <b>LOCAL</b></li></ul>
+<h2><span class="mw-headline" id="Plastics">Plastics</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.estreetplastics.com">eStreet Plastics</a>
+<ul><li>[4] Acrylics, etc. Very good prices and good for small quantities (e.g. 1 foot lengths of tuning, etc. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.delviesplastics.com/">Delvies Plastics</a>
+<ul><li>[4] Acrylics, casting supplies. Good prices, shipping is OK, but not lightning fast. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.tapplastics.com/">TAP Plastics</a>
+<ul><li>[3] Acrylics, casting supplies. Good selection, services; somewhat more expensive than some other suppliers (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://aeromarineplastics.com">AeroMarineProducts, Inc. (john@jgreer.com)</a>
+<ul><li>[5] Resin casting supplies. Got to love this place. One guy, very cheap prices, good delivery (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.piedmontplastics.com/">Piedmont Plastics</a> <b>LOCAL</b>
+<ul><li>Sells a variety of plastics.  Can fabricate and special order stuff.   Elkridge, MD (Was Reid Plastics in Rockville, MD)  Another shop in Richmond, VA. (martin 11/6/12)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://baltimore.lairdplastics.com/">Laird Plastics</a> <b>LOCAL</b>
+<ul><li>Mentioned in a dorkbot blabber post 3/31/10 by John Tinsdale (alden 3/31/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.usplastic.com/">US Plastic Corp</a>
+<ul><li>Sells an assortment of industrial and domestic plastic products; searchable knowledgebase; free catalog; not the cheapest prices but the selection is vast. (alberto 12/3/11)</li></ul></li></ul>
+<h2><span class="mw-headline" id="Metals">Metals</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.metalsforasteel.com/">Metals for a Steel</a>
+<ul><li>[5] Hands down one of the best online metal suppliers. Great prices and a large selection (alf 08/07/12)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.metalsdepot.com">Metals Depot</a>
+<ul><li>[5] This has been a great find. Small quantities of steel, aluminum, etc; cheap prices, reasonable shipping, good service. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.speedymetals.com/">Speedy Metals</a>
+<ul><li>[4] Good second choice to Metals Depot. Somewhat larger selection, somewhat higher prices. (alden 10/02/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bmgmetals.com/">BMG Metals, Inc</a> <b>LOCAL</b>
+<ul><li>[5] Great choice for larger stock items. Good prices and excellent service. (alberto 5/8/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://potomacsteel.com/">Potomac Steel &amp; Supply, Inc</a> <b>LOCAL</b>
+<ul><li>[3] Good selection of larger stock items. Good prices. I suffered downright mean service. (alberto 5/8/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://winchestermetals.com/">Winchester Metals</a> <b>LOCAL</b>
+<ul><li>Great service, amazing prices. Wide selection of metal products, sold by the pound. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 11:59, 13 August 2015 (PDT)</li></ul></li></ul>
+<h2><span class="mw-headline" id="Wood">Wood</span></h2>
+<h3><span class="mw-headline" id="Plywood_and_Sheet_Goods">Plywood and Sheet Goods</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://samsccs.service.com/catalogs/AandM/">Allied Plywood</a> <b>LOCAL</b>
+<ul><li>[?] Alexandria and Springfield - Large selection of sheet goods. Only open on weekdays.</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hardwoodsincorporated.com/">Hardwoods Inc.</a> <b>LOCAL</b>
+<ul><li>[4] Large selection of sheet goods - hardwood plywwod, exotic lumber, millwork. Fredrick, MD (martin 3/11/10)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Exotic_Lumber">Exotic Lumber</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://viennahardwood.com/">Vienna Hardwoods</a> <b>LOCAL</b>
+<ul><li>[4] There are many really great hardwood outlets in the area.  This shop is closest to me and usually has what I need at a reasonable price so I don't have a reason to go further.  Exotic lumber, veneer, flooring. (martin 12/29/09)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Construction_Lumber">Construction Lumber</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.twperry.com">T W Perry</a>  <b>LOCAL</b>
+<ul><li>[4] Building/construction supplies.  Quality lumber, sheet goods, millwork, fasteners, tools... Helpful, knowledgeable staff - great alternative to big orange borg.  Delivers.  Baltimore, Chevy Chase, and Gaithersburg, MD, Leesburg and Springfield, VA (martin 12/29/09)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Woodworking_Tools_and_Supplies">Woodworking Tools and Supplies</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.woodcraft.com/">Woodcraft</a> <b>LOCAL</b>
+<ul><li>[3] Hand and power tools, exotic lumber, fasteners, blades, glue, dyes, finishes.  Has a membership based woodworking shop and conducts classes on basic and advanced woodworkng topics. Rockville &amp; Baltimore, MD, Springfield &amp; Leesburg, VA (martin 3/11/10)</li></ul></li></ul>
+<h2><span id="Printed_Circuit_Boards;_Fab,_Supplies,_Assembly"></span><span class="mw-headline" id="Printed_Circuit_Boards.3B_Fab.2C_Supplies.2C_Assembly">Printed Circuit Boards; Fab, Supplies, Assembly</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://shop.ebay.com/amt33461/m.html?_nkw=&amp;_armrs=1&amp;_from=&amp;_ipg=&amp;_trksid=p3686">Copper Clad PCB ebay Seller</a>
+<ul><li>[4] Reliable, quality fabrication within 1/16" - 1/8" variance. Very good prices on custom cut PCB sizes. By far the best place to get DIY PCB boards in bulk and custom cut to boot!. I've ordered one time. (<a href="/index.php?title=User:Ril3y&amp;action=edit&amp;redlink=1" class="new" title="User:Ril3y (page does not exist)">Ril3y</a> 18:46, 25 February 2010 (UTC))</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.apc-pcbassembly.com/">Asia Pacific Circuits Co., Ltd</a>
+<ul><li>[4] Turn-key assembly from China, specialize in mid-volume, competitive, with reasonable service and shipping. Recommended by A Stacey. (alden 5/16/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://www.seeedstudio.com/fusion_pcb.html">Seeed Studio PCB</a>
+<ul><li>[4] Seeed Studio PCB is the best I've seen on small runs</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.4pcb.com/">Advanced Circuits</a>
+<ul><li>[4] Reliable, quality fabrication, prices vary. Very good prices on bare-bones prototypes. Other volumes may or may not be competitive. I've ordered many times (alden 10/03/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.custompcb.com/">Custom PCB, aka Silvtronics</a>
+<ul><li>[3] Very cheap offshore (Malaysia). Not as good quality as others - hole alignment, plating finish..., but may be OK for simpler applications. (alden 10/03/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sfcircuits.com/">San Francisco Circuits</a>
+<ul><li>Northern California-based - well known for flex PCB, metal core and HDI. Try them for larger, more complex projects. 2-layer hobbyist special also available for $199 shipped (qty=3). 4-layer for $319.</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.expresspcb.com/">Express PCB</a>
+<ul><li>[3] Prototyping shop with good prices. Has an easy-to-use, proprietary drawing package. At some point you'll want Gerber files and outgrow these guys (alden 10/03/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.goldphoenixpcb.biz/">Gold Phoenix</a>
+<ul><li>A lot of people use this company. I have no experience with them to comment (alden 10/03/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sunstone.com/products-services/quickturn-proto-boards/pricing.aspx">Sunstone</a>
+<ul><li>[2] I never used them as they always price out higher than the alternatives. (alden 10/03/09)</li>
+<li>Supposedly offers quick-turnaround. Unfortunately, they have failed to complete the first overnight order I placed with them, did not know what the problem was, and did not offer timely replacement. Disappointing. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 11:46, 18 December 2013 (PST)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.pcbcart.com">PCB Cart</a>
+<ul><li>Chinese maker. Have not personally tried but a reliable source uses them regularly. (Osman 10/24/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.batchpcb.com">BatchPCB/OshPark</a>
+<ul><li>Haven't tried. Recommended by R M Adams. (Osman 10/24/09)</li>
+<li>Exceptionally high quality PCBs, reasonable pricing, reasonable turnaround. Well supported by gedaProduction scripts. <a href="/index.php?title=User:Mirage335" title="User:Mirage335">Mirage335</a> (<a href="/index.php?title=User_talk:Mirage335" title="User talk:Mirage335">talk</a>) 20:14, 17 September 2015 (PDT)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.7pcb.com">Bittele Electronics</a>
+<ul><li>Turn-key assembly, with reasonable service and shipping. Recommended by A Stacey. (georged 5/16/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.pcbnet.com/">Imagineering Inc</a>
+<ul><li>Rated as moderate by a DSP boards spinner. (Osman 10/24/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.stencilsunlimited.com/">Stencils Unlimited</a>
+<ul><li>Very good prices on solder paste and other circuit supplies. Boards can be had cheaper from other suppliers in this list (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mettrix.com/">Mettrix</a>
+<ul><li>[4] Board fab and assembly in NY State. Prices are good but not rock bottom, They are very helpful, especially for less experienced customers - such as I was (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.aapcb.com/">Advanced Assembly</a>
+<ul><li>Short run assembly. Recommended by Sepideh Miller on list (Dec 2, 2009) (alden 12/08/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://cimarrontechnology.com/">Cimarron Technology</a>
+<ul><li>adapters supplier. not tested but seems handy (Osman 12/11/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.epboard.com/index.html">eP Board Design</a>
+<ul><li>adapters supplier and pcb manufacturer. based in cal. (Osman 12/11/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.wonderfulpcb.com/">Wonderful PCB</a>
+<ul><li>PCB board from printed circuit boards(PCB) manufacturer (Osman 13/08/27)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.shenzhen2u.com/">Shenzhen2U.com</a>
+<ul><li>Low prices PCB Prototyping in Shenzhen China, $9.9 10pcs 2Layers PCB  (sumcard 14/07/23)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.7pcbassembly.com">Asian Circuits</a>
+<ul><li>Prototyping, small batches and low volume runs. (cilgin 8/13/14)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://technotronix.us">TechnoTronix</a>
+<ul><li>PCB Fabrication (Low - Medium-High volume Production)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.7pcbmanufacturing.com/">Fast Circuits</a>
+<ul><li>PCB board from printed circuit boards(PCB) manufacturer (cilgin 15/03/02)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.wellpcb.com/">WellPCB</a>
+<ul><li>WELLPCB is focusing on online prototypes orders, to meet the requirement of Low cost, Fast delivery, Easy order for customers around the world. (Howie 17/05/05)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.nod-pcba.com/">NOD Electronics</a>
+<ul><li>Advanced PCB assembly and manufacturing with 7 SMT lines, 4 DIP lines and meet with ISO9001, UL, RoHS.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Other">Other</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.uline.com/">Uline Shipping Supplies</a>
+<ul><li>[4] Every kind of box, bag, tube, pallet, etc. imaginable. Highly reliable. Prices reasonable in quantity, somewhat more expensive in small Q's (alden 10/04/08)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.globalindustrial.com/">Global Industrial Equipment</a>
+<ul><li>[4] Really rangy catalog of industrial equipment. They have some great shelves, benches, bins. Watch out, shipping adds up for heavier items (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.gemplers.com/">Gempler's</a>
+<ul><li>[4] Complete catalog of farm and outdoor equipment. See powdered Gatorade gallon bags. (alden 10/04/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.kjmagnetics.com/">K&amp;J Magnetics</a>
+<ul><li>[4] Ultrastrong magnets (alden 10/06/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.purchase.umd.edu/ttrader/">Terrapin Trader</a> <b>LOCAL</b>
+<ul><li>[4] University of MD Surplus Property - From physics to food service they got it.  Lots of furniture, good but not great deals. (martin 12/21/09)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.crazyraysautoparts.com/">Crazy Ray's</a> <b>LOCAL</b>
+<ul><li>[3] "It's a parts garden, not a junkyard." (martin 2/3/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.weisserglass.com/">Weisser Glass Studio</a> <b>LOCAL</b>
+<ul><li>[4] Small but well stocked shop with large selection of stained glass and tools - helpful staff (martin 2/26/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.communityforklift.com/">Community Forklift</a> <b>LOCAL</b>
+<ul><li>[4] Surplus, salvaged &amp; green building materials (martin 4/10/10)</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hobbyworks.com/default.cfm/Content/Stores">Hobby Works</a> <b>LOCAL HOBBY STORE</b>
+<ul><li>Recommended by people on the Hacdc list. Dremel accessories, wheels of all shapes and kinds (mainly for model planes and cars), servomotors, DC motors, microshears, small machineable sheets of ABS and styrene in various colors, small tubes and struts in various plastics and metals. - Thanks Erica Kane (alden 4/10/10)</li>
+<li>Also, offers excellent selection of small metal sheets. Metals available include brass, tin, aluminum, and (sparsely) copper with thicknesses from 0.01" to &gt;0.025". (mirage335 4/10/12)</li></ul></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20200302092442
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.105 seconds
+Real time usage: 0.106 seconds
+Preprocessor visited node count: 105/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key hacdc_wiki:pcache:idhash:360-0!canonical and timestamp 20200302092442 and revision id 18749
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://wiki.hacdc.org/index.php?title=Suppliers&amp;oldid=18749">https://wiki.hacdc.org/index.php?title=Suppliers&amp;oldid=18749</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php?title=Category:Useful_Info" title="Category:Useful Info">Useful Info</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Suppliers" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/index.php?title=Suppliers" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Suppliers&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/index.php?title=Suppliers">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/index.php?title=Suppliers&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=Suppliers&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search HacDC Wiki" title="Search HacDC Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/index.php?title=Welcome_to_the_HacDC_Wiki" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-Navigation" aria-labelledby="p-Navigation-label">
+			<h3 id="p-Navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Welcome.21"><a href="/index.php?title=Welcome_to_the_HacDC_Wiki">Welcome!</a></li><li id="n-recentchanges"><a href="/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/index.php?title=Special:WhatLinksHere/Suppliers" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/index.php?title=Special:RecentChangesLinked/Suppliers" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=Suppliers&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Suppliers&amp;oldid=18749" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Suppliers&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 June 2019, at 10:57.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.3 or later</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/index.php?title=HacDC_Wiki:Privacy_policy" class="mw-redirect" title="HacDC Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/index.php?title=HacDC_Wiki:About" title="HacDC Wiki:About">About HacDC Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/index.php?title=HacDC_Wiki:General_disclaimer" class="mw-redirect" title="HacDC Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://www.gnu.org/copyleft/fdl.html"><img src="/resources/assets/licenses/gnu-fdl.png" alt="GNU Free Documentation License 1.3 or later" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.105","walltime":"0.106","ppvisitednodes":{"value":105,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20200302092442","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":246});});</script>
+</body>
+</html>

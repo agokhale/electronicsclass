@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>ElectronicsClass - HacDC Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"ElectronicsClass","wgTitle":"ElectronicsClass","wgCurRevisionId":4071,"wgRevisionId":4071,"wgArticleId":287,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Classes"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ElectronicsClass","wgRelevantArticleId":287,"wgRequestId":"Xl07sTF9fb3Q99dQ8VrbfgAAABQ","wgCSPNonce":!1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;printable=1&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;printable=1&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;printable=1&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0"/>
+<meta name="robots" content="noindex,follow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="HacDC Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.hacdc.org/api.php?action=rsd"/>
+<link rel="license" href="https://www.gnu.org/copyleft/fdl.html"/>
+<link rel="alternate" type="application/atom+xml" title="HacDC Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ElectronicsClass rootpage-ElectronicsClass skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">ElectronicsClass</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From HacDC Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Electronics_Class"><span class="tocnumber">1</span> <span class="toctext">Electronics Class</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#tease"><span class="tocnumber">1.1</span> <span class="toctext">tease</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Required_Materials"><span class="tocnumber">1.2</span> <span class="toctext">Required Materials</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Metering"><span class="tocnumber">1.3</span> <span class="toctext">Metering</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#SwitchLab"><span class="tocnumber">1.3.1</span> <span class="toctext">SwitchLab</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Relays.2FSwitches"><span class="tocnumber">1.4</span> <span class="toctext">Relays/Switches</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Wire"><span class="tocnumber">1.5</span> <span class="toctext">Wire</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Electromagnetics"><span class="tocnumber">1.6</span> <span class="toctext">Electromagnetics</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Soldering"><span class="tocnumber">1.7</span> <span class="toctext">Soldering</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Speakermaking_lab"><span class="tocnumber">1.8</span> <span class="toctext">Speakermaking lab</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Resistor"><span class="tocnumber">1.9</span> <span class="toctext">Resistor</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#ResistorLab"><span class="tocnumber">1.9.1</span> <span class="toctext">ResistorLab</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#BlueSmokeLab"><span class="tocnumber">1.9.2</span> <span class="toctext">BlueSmokeLab</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Power"><span class="tocnumber">1.10</span> <span class="toctext">Power</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#pros"><span class="tocnumber">1.10.1</span> <span class="toctext">pros</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#cons"><span class="tocnumber">1.10.2</span> <span class="toctext">cons</span></a>
+<ul>
+<li class="toclevel-4 tocsection-17"><a href="#Diode"><span class="tocnumber">1.10.2.1</span> <span class="toctext">Diode</span></a>
+<ul>
+<li class="toclevel-5 tocsection-18"><a href="#ScaryDataSheetLab"><span class="tocnumber">1.10.2.1.1</span> <span class="toctext">ScaryDataSheetLab</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Light_Emitting_Diode"><span class="tocnumber">1.11</span> <span class="toctext">Light Emitting Diode</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#LEDLab"><span class="tocnumber">1.11.1</span> <span class="toctext">LEDLab</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Motor"><span class="tocnumber">1.12</span> <span class="toctext">Motor</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Printed_Circuits"><span class="tocnumber">1.13</span> <span class="toctext">Printed Circuits</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Capacitor"><span class="tocnumber">1.14</span> <span class="toctext">Capacitor</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Applications"><span class="tocnumber">1.14.1</span> <span class="toctext">Applications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="#Transistor"><span class="tocnumber">1.15</span> <span class="toctext">Transistor</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#little_amplifierlab"><span class="tocnumber">1.15.1</span> <span class="toctext">little amplifierlab</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#construction_intro"><span class="tocnumber">1.15.2</span> <span class="toctext">construction intro</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#Digital_Logic"><span class="tocnumber">1.16</span> <span class="toctext">Digital Logic</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#IC"><span class="tocnumber">1.17</span> <span class="toctext">IC</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Links_and_class_notes"><span class="tocnumber">2</span> <span class="toctext">Links and class notes</span></a></li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="Electronics_Class">Electronics Class</span></h1>
+<p>This class is targeted at the beginner who wants to learn electronics. It would make a fine prerequisite to the <a href="/index.php?title=Microcontroller_Course" title="Microcontroller Course">Microcontroller Course</a> or the <a href="/index.php?title=HAMClass&amp;action=edit&amp;redlink=1" class="new" title="HAMClass (page does not exist)">HAMClass</a>
+</p>
+<h3><span class="mw-headline" id="tease">tease</span></h3>
+<p>These images form a slide show and a gestalt introduction to electronics. In which we map the techniques available to hackers and their surrounding requisite building blocks. 
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/8/82/Mindmap.jpg">[1]</a>]mindmap</li></ul>
+<p>My hacking started with music and production. it wasn't exacly the tech; more for the ride.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/5/5c/Wmuc_main.jpg">[2]</a>] WMUC main studio</li></ul>
+<p>Complicated behaviour arises from iteration of simple models. Learning how to operate something like this is simpler and more subtle than it looks.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/thumb/9/99/Wheatstone.jpg/800px-Wheatstone.jpg">[3]</a>] wheatstone broadcast console</li></ul>
+<p>Easier to see is block diagram form; a gestural view of a complex system. WMUC recording suites and broadcast control rooms. Computing.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/b/b9/Mixerschem.png">[4]</a>] signal diagram</li></ul>
+<p>Why study DC/baseband/RF electronics; anachronism?
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/a/a3/Roofchill.png">[5]</a>] chill on the roof.</li></ul>
+<p>Space shuttle shots; APRS , RACES, field day. Social technical effects require proficiency. 
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/e/ea/W3eaxtower.png">[6]</a>] W3EAX tower</li></ul>
+<p>Small systems scale into big ones.  40,000 people at Operation ceasefire (united for peace&amp; justice)  '05 at the national mall. Standing between SS, Park police and thousands of protesters.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/d/d7/Ceasefirestage.jpeg">[7]</a>] ceasefire stage</li>
+<li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/3/30/Ceasefirecrowd.jpeg">[8]</a>] ceasefire 40k</li></ul>
+<p>No always smooth sailing.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://images.spaceref.com/news/2003/09.06.03.noaa-n.med.jpg">[9]</a>] mars needs bolts</li></ul>
+<p>Building whimsey.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/b/bf/Dancepanel.jpeg">[10]</a>] lightup dance floor</li></ul>
+<p>Computer control over physical objects. microcontrollers + christmas tree lights. 
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/f/f3/Dancectll.jpeg">[11]</a>] dance floor controller</li></ul>
+<p>Not always smooth. Electrical compatibility&#160;!= political compatability
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/2/2c/Hhr.png">[12]</a>] hhr - phear the transaxle</li></ul>
+<p>More small systems iterated. 
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/c/cc/Igniterschem.jpeg">[13]</a>] fireworks diagram</li></ul>
+<p>DIY Ignition source in Berlin. in a pinch you don't need a parts catalog.   
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/9/91/Igniterface.jpeg">[14]</a>] igniter controller</li></ul>
+<p>Apologies to Dakami
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/d/d1/Fireworkscrates.jpeg">[15]</a>] fireworks crates</li></ul>
+<p>Simple systems, RC control, Robots and igniters.
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://2.bp.blogspot.com/_KqHQ-3WDqyk/SFqH25qqRwI/AAAAAAAAAS0/sJ2S8ppcBWQ/s1600-h/1055943372_295788412e.jpg">[16]</a>] wm greek fire</li></ul>
+<p>Recently robotics have become accessible to experimenters.  Bluto cuts, welds and hugs. 
+</p>
+<ul><li>[<a rel="nofollow" class="external autonumber" href="http://wiki.hacdc.org/images/4/47/Cadfab.jpg">[17]</a>] Welding robots!</li></ul>
+<h2><span class="mw-headline" id="Required_Materials">Required Materials</span></h2>
+<p>(see also: our <a href="/index.php?title=Suppliers" title="Suppliers">Suppliers page</a>)<br />
+</p>
+<hr />
+<p><a href="/index.php?title=File:Digital_Multimeter.jpg" class="image"><img alt="Digital Multimeter.jpg" src="/images/thumb/9/9a/Digital_Multimeter.jpg/200px-Digital_Multimeter.jpg" decoding="async" width="200" height="238" srcset="/images/thumb/9/9a/Digital_Multimeter.jpg/300px-Digital_Multimeter.jpg 1.5x, /images/thumb/9/9a/Digital_Multimeter.jpg/400px-Digital_Multimeter.jpg 2x" /></a><a href="/index.php?title=File:Analog_Multimeter.jpg" class="image"><img alt="Analog Multimeter.jpg" src="/images/thumb/9/93/Analog_Multimeter.jpg/200px-Analog_Multimeter.jpg" decoding="async" width="200" height="258" srcset="/images/thumb/9/93/Analog_Multimeter.jpg/300px-Analog_Multimeter.jpg 1.5x, /images/thumb/9/93/Analog_Multimeter.jpg/400px-Analog_Multimeter.jpg 2x" /></a>
+</p>
+<ul><li>Multimeter $4
+<ul><li><a rel="nofollow" class="external text" href="http://www.harborfreight.com/7-function-digital-multimeter-92020.html">Source: Harbor Freight</a></li></ul></li></ul>
+<hr />
+<p><a href="/index.php?title=File:Soldering_iron.jpg" class="image"><img alt="Soldering iron.jpg" src="/images/thumb/b/b2/Soldering_iron.jpg/200px-Soldering_iron.jpg" decoding="async" width="200" height="150" srcset="/images/thumb/b/b2/Soldering_iron.jpg/300px-Soldering_iron.jpg 1.5x, /images/thumb/b/b2/Soldering_iron.jpg/400px-Soldering_iron.jpg 2x" /></a>
+</p>
+<ul><li>Soldering Iron (25-30w) $10
+<ul><li><a rel="nofollow" class="external text" href="http://www.harborfreight.com/30-watt-120-volt-soldering-iron-47887.html">Source: Harbor Freight</a></li></ul></li></ul>
+<hr />
+<p><a href="/index.php?title=File:Solder.jpg" class="image"><img alt="Solder.jpg" src="/images/thumb/9/97/Solder.jpg/200px-Solder.jpg" decoding="async" width="200" height="194" srcset="/images/thumb/9/97/Solder.jpg/300px-Solder.jpg 1.5x, /images/thumb/9/97/Solder.jpg/400px-Solder.jpg 2x" /></a>
+</p>
+<ul><li>Solder  ( 22ga )
+<ul><li><a rel="nofollow" class="external text" href="http://www.harborfreight.com/lead-free-rosin-core-solder-95861.html">Source: Harbor Freight</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.radioshack.com/product/index.jsp?productId=2062712">Source: Radio Shack</a></li>
+<li>Or ANYWHERE, really.</li></ul></li></ul>
+<hr />
+<p><a href="/index.php?title=File:Breadboard.jpg" class="image"><img alt="Breadboard.jpg" src="/images/thumb/0/09/Breadboard.jpg/200px-Breadboard.jpg" decoding="async" width="200" height="200" srcset="/images/thumb/0/09/Breadboard.jpg/300px-Breadboard.jpg 1.5x, /images/thumb/0/09/Breadboard.jpg/400px-Breadboard.jpg 2x" /></a>
+</p>
+<ul><li>Bread Board ( or <a href="/index.php?title=AshClassBoard&amp;action=edit&amp;redlink=1" class="new" title="AshClassBoard (page does not exist)">AshClassBoard</a> ) $10
+<ul><li><a rel="nofollow" class="external text" href="http://mouser.com/ProductDetail/BusBoard-Prototype-Systems/BB400/?qs=sGAEpiMZZMskUkxWo/qA8g6E2/%252b0L/2p">Source: Mouser</a></li>
+<li><a rel="nofollow" class="external text" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&amp;name=438-1045-ND">Source: Digi-Key</a></li></ul></li></ul>
+<hr />
+<ul><li>wire 24ga</li></ul>
+<hr />
+<ul><li>30ga solid core wire</li></ul>
+<hr />
+<ul><li>Resistors 10kohm</li></ul>
+<hr />
+<ul><li>variable resistor  10kohm linear $1</li></ul>
+<hr />
+<ul><li>switch [<a rel="nofollow" class="external autonumber" href="http://www.mouser.com/search/ProductDetail.aspx?qs=JTMHOUw%252b%2fhkyoxmWRloCXw%3d%3d">[18]</a>]</li></ul>
+<hr />
+<ul><li>leds  (various)</li></ul>
+<hr />
+<ul><li>capacitor 470uf (ish) [<a rel="nofollow" class="external autonumber" href="http://www.mouser.com/Search/ProductDetail.aspx?qs=Dj1PTMaP5uJBsuYHd%252b9oGQ%3d%3d">[19]</a>]</li></ul>
+<hr />
+<ul><li>pn2222 transistor $.03</li></ul>
+<hr />
+<ul><li>1/8 male phono jack</li></ul>
+<pre>Read The Fine Data Sheet:  They hide secrets in the documentation.
+</pre>
+<h2><span class="mw-headline" id="Metering">Metering</span></h2>
+<pre>There are many like it but this one is mine.
+</pre>
+<ul><li>Naming of parts</li>
+<li>Should be a VOM - Volt Ohm Meter
+<ul><li>metering modes
+<ul><li>restistance - Ohms of resistance</li>
+<li>voltage - Volts</li>
+<li>Current - Amps/Milliamps - check the leads</li>
+<li>diode check - see [Diodes]</li></ul></li>
+<li>leads - plugged into the right ports?</li></ul></li>
+<li>Continuity testing
+<ul><li>set the meter to the lowest resistance mode (200ohms or auto resistance)</li>
+<li>or perhaps Diode check; or even beeping</li>
+<li>reads "off scale" when the leads are unconnected, this is an open circuit</li>
+<li>firmly touch leads together  -loopback test</li>
+<li>reads near 0 if the leads are crossed</li></ul></li>
+<li>Voltage testing
+<ul><li>set meter to 20Vdc or VautoDC</li>
+<li>touch leads to metered points</li>
+<li>the reading on the meter is the difference in voltages between the leads</li>
+<li>Try AC mains!! - safety second.</li></ul></li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="SwitchLab">SwitchLab</span></h4>
+<ul><li>use the continuity meter to diagram the electrical layout of the switch.</li>
+<li>solder switch to the board.</li>
+<li>test under power with meter voltage setting</li></ul>
+<h2><span id="Relays/Switches"></span><span class="mw-headline" id="Relays.2FSwitches">Relays/Switches</span></h2>
+<p>Codespeak 
+</p>
+<ul><li>SPDT  - single pole dual throw</li>
+<li>DPST  - dual pole single throw</li>
+<li>4P10T -&#160;???</li></ul>
+<pre>- Map this mystery switchLab
+</pre>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Wire">Wire</span></h2>
+<p>The basic wire is a pipe through which electrons can flow from the lowest voltage side to the highest (<a href="http://en.wikipedia.org/wiki/Electric_current#Conventional_current" class="extiw" title="wikipedia:Electric current">conventional current</a>) up to the physical limits of the wire.
+</p>
+<ul><li>Condunctor vs. Insulators</li>
+<li>Current limit via wire gauge <a rel="nofollow" class="external autonumber" href="http://www.powerstream.com/Wire_Size.htm">[20]</a></li>
+<li>Voltage limit via insulation.</li>
+<li>Magnetic and Electric fields surround an energized wire (what?!)</li>
+<li>And wire will respond with current when moved through magnetic flux
+<ul><li>bass pickups</li>
+<li>Lentz law</li>
+<li>Siemens, mho, ohms</li></ul></li>
+<li>strip wire</li>
+<li>and don't nick the conductor</li></ul>
+<h2><span class="mw-headline" id="Electromagnetics">Electromagnetics</span></h2>
+<ul><li>Einstein's "spukhafte Fernwirkung"</li>
+<li>Quantum Electrodynamics
+<ul><li>Electron and photons interact - somehow</li></ul></li>
+<li>Gauss, Maxwell and</li>
+<li>Permanent magnets useful - locked domains
+<ul><li>Ferro materials, Ni, Co, Sr, Rb, Nb, Nd, Cr and Fe.</li>
+<li>Except when they aren't - curie temperature.</li></ul></li>
+<li>Hall effect - sensing - spaceship drives</li>
+<li>Motors, linear, rotary, vibrational, direct ( magnetohydrodynamic)</li>
+<li>Radios
+<ul><li>EM probe demo</li>
+<li>EM spectrum
+<ul><li>DC,  ELF, SLF (submarines, blue whales), AF, LF,HF, (Short wave), VHF, UHF, Microwave, weird stuff, gamma rays (the incredible hulk, gian ants).</li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="Soldering">Soldering</span></h2>
+<pre>Hold the cold end.
+</pre>
+<p>Soldering ( for our purposes )  is the process of joining  electrical contacts with a low melting point metal to make a mechanically and electrically strong connection.
+</p>
+<ul><li>Restrain long hair/clothing/jewelry.</li>
+<li>Clean both parts of waxes, oils or debris.
+<ul><li>Ethanol/Methanol/SLX</li>
+<li>Flux/Rosin/Dry</li></ul></li>
+<li>Mechanically fit connections together</li>
+<li>Clean and wet the iron
+<ul><li>Tip should be immaculate and bright</li></ul></li>
+<li>Heat both parts until hot
+<ul><li>Cheat, use another heating element
+<ul><li>quartz floodlight, sterno, propane or mean stare.</li></ul></li>
+<li>but not too hot - see blue smoke lab</li></ul></li>
+<li>Apply just enough solder to wet the contact surfaces</li>
+<li>Wait for the connection to shine smoothly</li>
+<li>remove the iron an test the connection
+<ul><li>yes it's hot stupid.</li>
+<li>the meter should find near 0 ohms  of resistance between the two parts even when mechanically stressed.</li>
+<li>the meter should read "off scale" to everything that should be isolated</li></ul></li>
+<li>Splice practice
+<ul><li>Western Union Splice</li>
+<li>Pigtail Splice</li></ul></li></ul>
+<h2><span class="mw-headline" id="Speakermaking_lab">Speakermaking lab</span></h2>
+<p>materials:
+</p>
+<ul><li>junk wire, lots of it</li>
+<li>magnet ( stronger is better )</li></ul>
+<p>Test stuff:
+</p>
+<ul><li>multimeter</li>
+<li>signal generator, (or music source)</li>
+<li>power amp</li></ul>
+<p>Construction:
+</p>
+<ul><li>Make coil of wire 24ga 1" dia, 50-400 turns.
+<ul><li>use a form, marker, tp tube, pvc pipe</li>
+<li>Measure impedance &gt; 1.5 ohm</li></ul></li>
+<li>Stick coil of wire to diaphram</li>
+<li>Make  stator/armature
+<ul><li>stick magnet to something - not too ferrous</li></ul></li>
+<li>stick diaphram near armature (correct axis??)</li>
+<li>connect to amplifier; apply Rock!</li></ul>
+<p>Exercises for suckers: 
+</p>
+<ul><li>Use the lentz law to calculate the force generated by thingy.</li>
+<li>Why 8ohm speakers in the house?</li></ul>
+<h2><span class="mw-headline" id="Resistor">Resistor</span></h2>
+<pre>Not like the NYC variety
+</pre>
+<p>Resistors impede the flow of electrons across them; usually to protect components from excessive current.
+</p><p><a href="/index.php?title=File:Resistoriv.png" class="image"><img alt="Resistoriv.png" src="/images/d/d6/Resistoriv.png" decoding="async" width="676" height="497" /></a>
+</p>
+<ul><li><a href="http://en.wikipedia.org/wiki/Ohm%27s_law" class="extiw" title="wikipedia:Ohm&#39;s law">Ohm's law</a></li>
+<li>Diagonal IV curve.</li>
+<li>symmetric</li></ul>
+<p><br />
+</p>
+<h5><span class="mw-headline" id="ResistorLab">ResistorLab</span></h5>
+<ul><li>solder resistors, meter and record;</li>
+<li>compare to ohms law math</li></ul>
+<p><br />
+</p><p><br />
+</p>
+<h5><span class="mw-headline" id="BlueSmokeLab">BlueSmokeLab</span></h5>
+<pre>Get this out of the way early (and often)
+</pre>
+<ul><li>turn off the switch</li>
+<li>Solder the 30ga  wire ends on to the lab 0 area</li>
+<li>stow fingers away from wire</li>
+<li>turn on switch</li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Power">Power</span></h2>
+<ul><li>Measured in watts (usally)</li></ul>
+<pre>* .01w laser pointer
+* .25w cell phone
+* 1w 
+* 15w car stereo
+* 25w soldering iron
+* 100w light bulb
+* 1500w hair dryer
+* 200 horsepower (750w/hp)
+* 3 tons of Air conditioner capacity (3.5kw/ton)
+</pre>
+<ul><li>The notion of instant work</li>
+<li>Energy or work is expressed in joules (watt*second). Or perhaps (Kw*H)</li>
+<li>Power(watts) = Current (Amps) * Volts</li></ul>
+<p><br />
+</p>
+<pre>Electromechanical relay is a switch that's controlled electrically.
+</pre>
+<h3><span class="mw-headline" id="pros">pros</span></h3>
+<ul><li>Easy to design for</li>
+<li>debugging (listen for satisfying click)</li>
+<li>excelent isolation</li>
+<li>high power control/$</li></ul>
+<h3><span class="mw-headline" id="cons">cons</span></h3>
+<ul><li>high drive current (mostly)</li>
+<li>noisy (mostly)</li>
+<li>slow</li>
+<li>moving parts (eeew)</li></ul>
+<p><a rel="nofollow" class="external text" href="http://ecommas.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Data+Sheet%7F1308242_T77%7F1104%7Fpdf%7FEnglish%7FENG_DS_1308242_T77_1104.pdf">a typical relay</a>
+- map this mystery relay lab
+</p><p><br />
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Diode">Diode</span></h4>
+<p><a href="/index.php?title=File:Diodeiv.png" class="image"><img alt="Diodeiv.png" src="/images/5/55/Diodeiv.png" decoding="async" width="704" height="464" /></a>
+</p>
+<h5><span class="mw-headline" id="ScaryDataSheetLab">ScaryDataSheetLab</span></h5>
+<ul><li>a favorite led  <a rel="nofollow" class="external autonumber" href="http://www.vishay.com/docs/83012/83012.pdf">[21]</a></li>
+<li>LED ( Light emitting diode ) are diodes with a clear case.</li>
+<li>electrons only permitted to flow in one direction: cathode to anode
+<ul><li>there are exceptions [diode breakdown voltage]</li></ul></li>
+<li>discontinuous IV curve</li>
+<li>diode logic</li>
+<li>the cathode is marked</li>
+<li>the diode check function of the meter can reveal the correct polarity of a mystery diode with a suspect cathode mark.</li></ul>
+<h2><span class="mw-headline" id="Light_Emitting_Diode">Light Emitting Diode</span></h2>
+<ul><li>the short lead is the cathode</li>
+<li>LED's need current limiting (see <a href="/index.php?title=ElectronicsClass#BlueSmokeLab" title="ElectronicsClass">BlueSmokeLab</a>)</li></ul>
+<h5><span class="mw-headline" id="LEDLab">LEDLab</span></h5>
+<ul><li>solder in 1kOhm resistor for the led , although you may use another if you can justify the value</li>
+<li>Solder in the LED, with the short lead towards the ground.</li></ul>
+<h2><span class="mw-headline" id="Motor">Motor</span></h2>
+<h2><span class="mw-headline" id="Printed_Circuits">Printed Circuits</span></h2>
+<h2><span class="mw-headline" id="Capacitor">Capacitor</span></h2>
+<pre>470μf electrolytic cap
+</pre>
+<p><a href="/index.php?title=File:Capt.png" class="image"><img alt="Capt.png" src="/images/c/c4/Capt.png" decoding="async" width="825" height="443" /></a>
+</p><p><a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Capacitor">wikipedia capacitor</a>
+&lt;math&gt;\operator {work} (V) =
+\frac {1}{2} 
+2)Cv^2 &lt;/math&gt; Hmm.. no teX support here.
+</p>
+<h4><span class="mw-headline" id="Applications">Applications</span></h4>
+<ul><li>Filters
+<ul><li>Decoupling - Ripple rejection</li>
+<li>Blocking - DC Bias rejection</li>
+<li>Use in networks - equalization networks</li></ul></li>
+<li>Storage
+<ul><li>Pump and dump  - Photoflash.</li>
+<li>Tank application - DC - DC converters</li></ul></li>
+<li>Esoteric
+<ul><li>Sensors - Strain gauge</li>
+<li>Microphones - Old school</li>
+<li>nonlinear math - Calculating logs/exponents.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Transistor">Transistor</span></h2>
+<pre>PN2222 N channel transistor
+Elliot substitute-taught a class on transistor amplifiers...
+Notes in PDF are here:
+<a href="/images/d/da/TransistorLecture.pdf" class="internal" title="TransistorLecture.pdf">Media:transistorLecture.pdf</a>
+</pre>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="little_amplifierlab">little amplifierlab</span></h3>
+<ul><li>class A amp</li>
+<li>DC blocking caps</li>
+<li>bias resistors</li>
+<li>fixed gain</li>
+<li>inverted waveform</li></ul>
+<h3><span class="mw-headline" id="construction_intro">construction intro</span></h3>
+<ul><li>breadboard intro</li>
+<li>soldering intro</li>
+<li>led circuit</li></ul>
+<h2><span class="mw-headline" id="Digital_Logic">Digital Logic</span></h2>
+<ul><li>AND  C = A &amp; B</li>
+<li>OR   C = A | B</li>
+<li>NOT  C  = !A</li>
+<li>NOR C =&#160;!(A|B)</li>
+<li>NAND C =&#160;!(A&amp;B)</li>
+<li>MUX C = select A(n) based on B(n)</li></ul>
+<h2><span class="mw-headline" id="IC">IC</span></h2>
+<pre>LM386 Audio Amplifier <a rel="nofollow" class="external autonumber" href="http://www.national.com/mpf/LM/LM386.html">[22]</a>
+</pre>
+<h1><span class="mw-headline" id="Links_and_class_notes">Links and class notes</span></h1>
+<ul><li>7-28
+<ul><li><a rel="nofollow" class="external text" href="http://www.allaboutcircuits.com/vol_3/chpt_2/8.html">How bipolar junction transistors actually work</a></li></ul></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20200302125511
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.138 seconds
+Real time usage: 0.144 seconds
+Preprocessor visited node count: 126/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key hacdc_wiki:pcache:idhash:287-0!canonical and timestamp 20200302125511 and revision id 4071
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://wiki.hacdc.org/index.php?title=ElectronicsClass&amp;oldid=4071">https://wiki.hacdc.org/index.php?title=ElectronicsClass&amp;oldid=4071</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/index.php?title=Category:Classes" title="Category:Classes">Classes</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=ElectronicsClass&amp;returntoquery=printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/index.php?title=ElectronicsClass" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/index.php?title=Talk:ElectronicsClass" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/index.php?title=ElectronicsClass">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/index.php?title=ElectronicsClass&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=ElectronicsClass&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search HacDC Wiki" title="Search HacDC Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/index.php?title=Welcome_to_the_HacDC_Wiki" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-Navigation" aria-labelledby="p-Navigation-label">
+			<h3 id="p-Navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Welcome.21"><a href="/index.php?title=Welcome_to_the_HacDC_Wiki">Welcome!</a></li><li id="n-recentchanges"><a href="/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/index.php?title=Special:WhatLinksHere/ElectronicsClass" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/index.php?title=Special:RecentChangesLinked/ElectronicsClass" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/index.php?title=ElectronicsClass&amp;oldid=4071" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=ElectronicsClass&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 November 2010, at 22:25.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.3 or later</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/index.php?title=HacDC_Wiki:Privacy_policy" class="mw-redirect" title="HacDC Wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/index.php?title=HacDC_Wiki:About" title="HacDC Wiki:About">About HacDC Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/index.php?title=HacDC_Wiki:General_disclaimer" class="mw-redirect" title="HacDC Wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://www.gnu.org/copyleft/fdl.html"><img src="/resources/assets/licenses/gnu-fdl.png" alt="GNU Free Documentation License 1.3 or later" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.138","walltime":"0.144","ppvisitednodes":{"value":126,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20200302125511","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":254});});</script>
+</body>
+</html>
